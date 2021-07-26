@@ -1,4 +1,5 @@
 # Car Price Prediction
+*Link: https://www.kaggle.com/c/sf-dst-car-price-prediction/overview*  
 ### *Task*: build a model that predicts the value of a car based on its characteristics
 
 ### Description:
@@ -21,5 +22,5 @@ When searching for a predictive model, sklearn models, which were determined as 
 [Scraping](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/Data%20Scraping.ipynb)    
 [Data processing](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/Car%20price%20data.ipynb)  
 [Choice of sklearn models](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/LazzyPredict.ipynb)  
-[Prediction model](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/Prediction%20model.ipynbb)
+[Prediction model](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/Prediction%20model.ipynb)
 
