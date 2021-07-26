@@ -1,7 +1,5 @@
 
-# Resume  
-
-## Iryna Alshakova
+# Iryna Alshakova
 
 ### EDUCATION   
 PhD, Inorganic Chemistry (2019)	Brock University, St. Catharines, Canada  
