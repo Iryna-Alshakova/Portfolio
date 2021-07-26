@@ -18,8 +18,8 @@ The collected data has been cleared. Additional features have been generated.
 When searching for a predictive model, sklearn models, which were determined as the most optimal using Lazy Predict, as well as CatBoostRegressor were tested.
 
 ### Content
-[Scraping](https://github.com/Iryna-Alshakova/skillfactory_rsd/blob/main/module_6/Data%20Parsing.ipynb)    
-[Data processing](https://github.com/Iryna-Alshakova/skillfactory_rsd/blob/main/module_6/Car%20price%20data.ipynb)  
-[Choice of sklearn models](https://github.com/Iryna-Alshakova/skillfactory_rsd/blob/main/module_6/LazzyPredict.ipynb)  
-[Prediction model](https://github.com/Iryna-Alshakova/skillfactory_rsd/blob/main/module_6/Prediction%20model.ipynb)
+[Scraping](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/Data%20Scraping.ipynb)    
+[Data processing](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/Car%20price%20data.ipynb)  
+[Choice of sklearn models](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/LazzyPredict.ipynb)  
+[Prediction model](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/Prediction%20model.ipynbb)
 
