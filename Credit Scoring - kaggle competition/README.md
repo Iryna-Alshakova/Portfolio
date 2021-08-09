@@ -7,8 +7,5 @@ Based on this questionnaire the bank will do a preliminary assessment of the pro
 
 Type of the machine learning problem - classification.
 
-### Solution
-The prediction model was build based on the logistic regression with cross-validation.   
-GridSearchCV was applied to find the best hyperparameters.
 
 
