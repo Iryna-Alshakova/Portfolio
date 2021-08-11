@@ -20,7 +20,7 @@ Data Science (in progress)	SkillFactory, online school
 •	Other skills: time management, public speaking, mentoring, tolerance, open-mindedness.  
 
 ### LANGUAGES
-Belarusian (Native)	 
+Belarusian (Native)	   
 Russian (Native)  
 English (Fluent)	  
 German (Basic)
