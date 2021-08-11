@@ -36,6 +36,7 @@ German (Basic)
 *September 2014 - April 2019*   
 ##### Graduate Research Assistant, Brock University, St. Catharines, ON, Canada   
 •	Designed, synthesized pyrazolyl-phosphine and pyrazolyl-sulfide ligands for ruthenium and zinc complexes. Applied the obtained complexes in catalytic transfer hydrogenation and hydrosilylation of a wide range of substrates, e.g. carbonyls, nitriles, heterocyclic compounds, olefins, alkynes, and esters: design of experiments, optimization of catalytic reaction conditions, characterization of products with NMR spectroscopy, HPLC- and LC/GC-MS, IR spectroscopy, polarimetry. Performed mechanistic and kinetic studies of the developed catalytic processes.  
+• Drafted manuscripts for submission to peer-review journals and presented research findings at international conferences.
 •	Assisted in supervising of the 1st-, 2nd- and 3rd-year laboratory practicum.  
 
 *September 2012 - May 2014*   
@@ -45,11 +46,11 @@ German (Basic)
 
 *September 2011 -May 2012*	
 ##### Undergraduate Research Assistant, Department of Chemistry, Belarusian State University, Minsk, Belarus
-•	Analysis of honey and alcoholic beverages by GC-MS and HPLC methods.  
-•	Development and implementation of GC-MS and HPLC procedures.  
+•	Analyzed honey and alcoholic beverages by GC-MS and HPLC methods.  
+•	Developed and implemented GC-MS and HPLC procedures.  
 
 ### PUBLICATIONS 
-Alshakova, I. D., Albrecht, M., Cascade Reductive Friedel–Crafts Alkylation Catalyzed by Robust Iridium(III) Hydride Complexes Containing a Protic Triazolylidene Ligand, ACS Catal. 2021, 8999-9007.  
+Alshakova, I. D., Albrecht, M., Cascade Reductive Friedel–Crafts Alkylation Catalyzed by Robust Iridium(III) Hydride Complexes Containing a Protic Triazolylidene Ligand, ACS Catal. 2021, 11, 15, 8999-9007.  
 Alshakova, I. D., Foy, H. C., Dudding, T., Nikonov, G. I. Ligand Effect in Alkali‐Metal‐Catalyzed Transfer Hydrogenation of Ketones. Chem.Eur.J. 2019, 25, 11734–11744.  
 Alshakova, I. D., Nikonov, G. I. Selective Synthesis of Secondary and Tertiary Amines by Reductive N‐Alkylation of Nitriles and N‐Alkylation of Amines and Ammonium Formate Catalyzed by Ruthenium Complex. ChemCatChem 2019, 11, 5370–5378.  
 Alshakova, I. D., Nikonov, G. I. New Zinc Catalyst for Hydrosilylation of Carbonyl Compounds. Synthesis 2019, 51, 3305–3312.  
