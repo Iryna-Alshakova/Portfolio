@@ -24,3 +24,18 @@ When searching for a predictive model, sklearn models, which were determined as 
 [Choice of sklearn models](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/LazzyPredict.ipynb)  
 [Prediction model](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/Prediction%20model.ipynb)
 
+
+
+# Car Price Prediction (Part 2)
+*Link: https://www.kaggle.com/c/sf-dst-car-price-prediction-part2* 
+
+### Solution
+The model included both machine learning algorithm (*CatBoostRegressor*) and neural networks (*NLP* and *CV*).
+Text of the car description was preprocessed with the application of lemmatization and removing stop-words.
+Augmentation was applied when images were processed.
+Final results were obtained by blending the results of CatBoostRegressor and neural network.
+
+Additionally, a neural network with skip connections was tested. That model has proven to converge much faster compared to the original, although accuracy was somewhat lower.
+
+[Model with NN](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Car%20price%20predictor%20-%20kaggle%20competition/car_price_predictor_2.ipynb)
+
