@@ -11,7 +11,11 @@ Machine Learning (2021)	IBM on Coursera - Specialization Certificate
 Data Science (in progress)	SkillFactory, online school 
 
 ### SKILLS
-•	IT: Word, Excel, PowerPoint, Octave, Python, SQL, machine learning algorithms, LINUX.  
+
+![image](https://user-images.githubusercontent.com/72381420/132882425-f907f5dd-cb86-43a8-acb7-df279389b9f9.png)
+
+#### OTHER SKILLS  
+•	IT: Word, Excel, PowerPoint, Octave, LINUX.  
 •	Organic and organometallic synthesis: design of experiments, isolation, purification, analysis.  
 •	Air- and moisture-sensitive reactions: Schlenk line technique, glovebox, solvent purification system.   
 •	Transition metal catalysis: catalyst design, optimization of a catalytic reaction conditions, characterization of products, mechanistic and kinetic studies of the developed catalytic processes   
