@@ -27,6 +27,7 @@ For each activity, the training/test set split is done by dates of testing.  Tha
 
 ### *Solution*: 
 An example of a solution on some of the traininng sets:  
+[ACT3_set](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Merck%20Molecular%20Activity%20Challenge/ACT3.ipynb)   
 [ACT4_set](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Merck%20Molecular%20Activity%20Challenge/ACT4.ipynb)  
 [ACT5_set](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Merck%20Molecular%20Activity%20Challenge/ACT5.ipynb)   
 [ACT7_set](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Merck%20Molecular%20Activity%20Challenge/ACT7.ipynb)
