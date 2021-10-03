@@ -23,4 +23,4 @@ The challenge is to predict the activity value for each molecule/data set combin
 
 For each activity, the training/test set split is done by dates of testing.  That is, the training set consists of compounds assayed by a certain date, and the test set consists of compounds tested after that date. Therefore it is expected that the distribution of descriptors will not necessarily be the same between the training and test sets.
 
-
+*Since the Kaggle competition had already been completed by the time the current solution was developed, there was no opportunity to evaluate the accuracy of the predictive model on the test set. Therefore, only the training test was used.*
