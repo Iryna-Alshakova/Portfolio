@@ -24,3 +24,11 @@ The challenge is to predict the activity value for each molecule/data set combin
 For each activity, the training/test set split is done by dates of testing.  That is, the training set consists of compounds assayed by a certain date, and the test set consists of compounds tested after that date. Therefore it is expected that the distribution of descriptors will not necessarily be the same between the training and test sets.
 
 *Since the Kaggle competition had already been completed by the time the current solution was developed, there was no opportunity to evaluate the accuracy of the predictive model on the test set. Therefore, only the training test was used.*
+
+### *Solution*: 
+An example of a solution on one of the traininng sets - [ACT4_set](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Merck%20Molecular%20Activity%20Challenge/ACT4.ipynb)
+
+Three predictive models were tested:   
+•	Neural Network  
+• Random Forest Regressor  
+• CatBoost Regressor  
