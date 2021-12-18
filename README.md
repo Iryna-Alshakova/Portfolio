@@ -29,7 +29,12 @@ Russian (Native)
 English (Fluent)	  
 German (Basic)
 
-### PROFESSIONAL EXPERIENCE 
+### PROFESSIONAL EXPERIENCE    
+*October 2020 - present*
+##### Data Scientist (Freelance)    
+•	Worked on machine learning projects: exploratory data analysis, visualization, feature generation, building ML models, validation.    
+•	Performed programming tasks on python.     
+
 *May 2019 - July 2020*  
 ##### Postdoctoral Researcher, Department of Chemistry and Biology, University of Bern, Switzerland   
 •	Designed and synthesized triazolyl ligands for iridium catalysts for direct hydrogenation of aldehydes and ketones and reductive Friedel-Crafts alkylation of aromatic compounds. Studied ligand post-modification of iridium complexes as a tool for tuning their electronic and steric properties.   
