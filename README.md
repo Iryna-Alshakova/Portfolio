@@ -12,7 +12,8 @@ Data Science (in progress)	SkillFactory, online school
 
 ### SKILLS
 
-![image](https://user-images.githubusercontent.com/72381420/132882425-f907f5dd-cb86-43a8-acb7-df279389b9f9.png)
+•	Data Science: supervised ML (linear and logistic regressions, decision trees)  and unsupervised ML (clustering, principal component analysis, anomaly detection).    
+•	Python (NumPy, pandas, scipy, seaborn, matplotlib, sklearn, causalml, BeautifulSoup4, TensorFlow, Keras) and SQL (Postgres).
 
 #### OTHER SKILLS  
 •	IT: Word, Excel, PowerPoint, Octave, LINUX.  
@@ -21,26 +22,29 @@ Data Science (in progress)	SkillFactory, online school
 •	Transition metal catalysis: catalyst design, optimization of a catalytic reaction conditions, characterization of products, mechanistic and kinetic studies of the developed catalytic processes   
 •	Analytical techniques: NMR spectroscopy (1D and 2D), HPLC- and LC/GC-MS, IR spectroscopy, polarimetry, titrations.  
 •	Chemistry software: ChemInventory, CambridgeSoft, ACD/labs, SciNote, TopSpin, Mnova, EndNote, Olex2 Crystallography Software.  
-•	Other skills: time management, public speaking, mentoring, tolerance, open-mindedness.  
+•	Other skills: time management, public speaking, mentoring, team-working, self-motivation.   
 
 ### LANGUAGES
 Belarusian (Native)	   
 Russian (Native)  
 English (Fluent)	  
-German (Basic)
+German (Intermediate)
 
 ### PROFESSIONAL EXPERIENCE    
 *October 2020 - present*
 ##### Data Scientist (Freelance)    
-•	Worked on machine learning projects: exploratory data analysis, visualization, feature generation, building ML models, validation.    
-•	Performed programming tasks on python.     
+•	Worked on machine learning projects: exploratory data analysis, visualization, feature generation, building ML models, validation. Projects included recommendation systems, anomaly detection, time series analyses and forecasting, survival analysis, uplift modeling, web scraping, chat bots with text preprocessing.
+•	Participated in Kaggle competitions.
+•	Participated in hackathon “The Data-driven Recommendind System for SkillFactory Marketing Department.”
+•	Performed programming tasks on python.
+•	Guided students of the data science programs on the online learning platform “SkillFactory”.      
 
 *May 2019 - July 2020*  
 ##### Postdoctoral Researcher, Department of Chemistry and Biology, University of Bern, Switzerland   
-•	Designed and synthesized triazolyl ligands for iridium catalysts for direct hydrogenation of aldehydes and ketones and reductive Friedel-Crafts alkylation of aromatic compounds. Studied ligand post-modification of iridium complexes as a tool for tuning their electronic and steric properties.   
-•	Developed polymer resin-supported iridium catalyst.   
-•	Designed and synthesised a carboxylate NHC ligand precursor based on functionalized histidine.  
-•	Assisted in supervising undergraduate and graduate students.  
+•	Designed and synthesized triazolyl ligands for iridium catalysts for direct hydrogenation of aldehydes and ketones and reductive Friedel-Crafts alkylation of aromatic compounds. Studied ligand post-modification of iridium complexes as a tool for tuning their electronic and steric properties.        
+•	Developed polymer resin-supported iridium catalyst.        
+•	Designed and synthesised a carboxylate NHC ligand precursor based on functionalized histidine.       
+•	Assisted in supervising undergraduate and graduate students.      
 
 *September 2014 - April 2019*   
 ##### Graduate Research Assistant, Brock University, St. Catharines, ON, Canada   
