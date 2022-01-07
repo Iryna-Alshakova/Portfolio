@@ -19,7 +19,7 @@ Data Science (in progress)	SkillFactory, online school
 •	IT: Word, Excel, PowerPoint, Octave, LINUX.  
 •	Organic and organometallic synthesis: design of experiments, isolation, purification, analysis.  
 •	Air- and moisture-sensitive reactions: Schlenk line technique, glovebox, solvent purification system.   
-•	Transition metal catalysis: catalyst design, optimization of a catalytic reaction conditions, characterization of products, mechanistic and kinetic studies of the developed catalytic processes   
+•	Transition metal catalysis: catalyst design, optimization of a catalytic reaction conditions, characterization of products, mechanistic and kinetic studies of the developed catalytic processes.   
 •	Analytical techniques: NMR spectroscopy (1D and 2D), HPLC- and LC/GC-MS, IR spectroscopy, polarimetry, titrations.  
 •	Chemistry software: ChemInventory, CambridgeSoft, ACD/labs, SciNote, TopSpin, Mnova, EndNote, Olex2 Crystallography Software.  
 •	Other skills: time management, public speaking, mentoring, team-working, self-motivation.   
