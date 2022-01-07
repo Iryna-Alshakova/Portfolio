@@ -33,11 +33,11 @@ German (Intermediate)
 ### PROFESSIONAL EXPERIENCE    
 *October 2020 - present*
 ##### Data Scientist (Freelance)    
-•	Worked on machine learning projects: exploratory data analysis, visualization, feature generation, building ML models, validation. Projects included recommendation systems, anomaly detection, time series analyses and forecasting, survival analysis, uplift modeling, web scraping, chat bots with text preprocessing.
-•	Participated in Kaggle competitions.
-•	Participated in hackathon “The Data-driven Recommendind System for SkillFactory Marketing Department.”
-•	Performed programming tasks on python.
-•	Guided students of the data science programs on the online learning platform “SkillFactory”.      
+•	Worked on machine learning projects: exploratory data analysis, visualization, feature generation, building ML models, validation. Projects included recommendation systems, anomaly detection, time series analyses and forecasting, survival analysis, uplift modeling, web scraping, chat bots with text preprocessing.    
+•	Participated in Kaggle competitions.    
+•	Participated in hackathon “The Data-driven Recommendind System for SkillFactory Marketing Department”.     
+•	Performed programming tasks on python.   
+•	Guided students of the data science programs on the online learning platform “SkillFactory”.         
 
 *May 2019 - July 2020*  
 ##### Postdoctoral Researcher, Department of Chemistry and Biology, University of Bern, Switzerland   
