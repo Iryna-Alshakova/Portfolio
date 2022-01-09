@@ -16,3 +16,5 @@ is prevented from being targeted by advertising. it consists of 25M rows, each o
 ### Solution
 Conversion was used as a target, while visits and exposure were ignored in this study.   
 Several uplift models were applied to the dataset and their qini curves were compared. 
+
+![Screenshot](QiniCoefficients.jpg)
