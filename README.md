@@ -7,7 +7,7 @@ PhD, Inorganic Chemistry (2019)	Brock University, St. Catharines, Canada
 MSc, Organic Chemistry (2014)  	Belarusian State University, Minsk, Belarus
   
 ### CERTIFICATES  
-Machine Learning (2021)	IBM on Coursera - Specialization Certificate  
+[Machine Learning](https://github.com/Iryna-Alshakova/Portfolio/blob/main/IBM_Machine_Learning_2FKNFXA8TAVV.pdf) (2021)	IBM on Coursera - Specialization Certificate  
 Data Science (in progress)	SkillFactory, online school 
 
 ### SKILLS
