@@ -33,7 +33,7 @@ German (Intermediate)
 ### PROFESSIONAL EXPERIENCE    
 *October 2020 - present*
 ##### Data Scientist (Freelance)    
-•	Worked on machine learning projects: exploratory data analysis, visualization, feature generation, building ML models, validation. Projects included recommendation systems, anomaly detection, time series analyses and forecasting, survival analysis, uplift modeling, web scraping, chatbots with text preprocessing.    
+•	Worked on machine learning projects: exploratory data analysis, visualization, feature generation, building ML models, validation. Projects included recommender systems, anomaly detection, time series analyses and forecasting, survival analysis, uplift modeling, web scraping, chatbots with text preprocessing.    
 •	Participated in Kaggle competitions.    
 •	Participated in hackathon “The Data-driven Recommendind System for SkillFactory Marketing Department”.     
 •	Performed programming tasks in python.   
