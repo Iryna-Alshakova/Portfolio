@@ -13,7 +13,7 @@ Data Science (in progress)	SkillFactory, online school
 ### SKILLS
 
 •	Data Science: supervised ML (linear and logistic regressions, decision trees)  and unsupervised ML (clustering, principal component analysis, anomaly detection).    
-•	Python (NumPy, pandas, scipy, seaborn, matplotlib, sklearn, causalml, BeautifulSoup4, TensorFlow, Keras) and SQL (Postgres).
+•	Python (NumPy, pandas, scipy, seaborn, matplotlib, sklearn, causalml, LightGBM, XGBoost, CatBoost, BeautifulSoup4, TensorFlow, Keras) and SQL (Postgres).
 
 #### OTHER SKILLS  
 •	IT: Word, Excel, PowerPoint, Octave, LINUX.  
