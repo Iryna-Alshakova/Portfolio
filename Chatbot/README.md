@@ -9,5 +9,5 @@
 ### Solution:
 1. ["Chatter"](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Chatbot/chatbot.ipynb)
 2. [Preprocessing Products Data](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Chatbot/product-dataset-processing.ipynb)
-3. [Teaching ML algorithm](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Chatbot/ml-model.ipynb) 
+3. [ML algorithm](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Chatbot/ml-model.ipynb) 
 4. [Chatbot](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Chatbot/product-enquiry-vs-chatbot.ipynb)
