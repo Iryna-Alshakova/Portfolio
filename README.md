@@ -13,7 +13,7 @@ Data Science (in progress)	SkillFactory, online school
 ### SKILLS
 
 •	Data Science: supervised ML (linear and logistic regressions, decision trees)  and unsupervised ML (clustering, principal component analysis, anomaly detection).    
-•	Python (NumPy, pandas, scipy, seaborn, matplotlib, sklearn, causalml, LightGBM, XGBoost, CatBoost, BeautifulSoup4, TensorFlow, Keras) and SQL (Postgres).
+•	Python (NumPy, pandas, scipy, seaborn, matplotlib, sklearn, XGBoost, CatBoost, BeautifulSoup4, TensorFlow, Keras) and SQL (Postgres).
 
 #### OTHER SKILLS  
 •	IT: Word, Excel, PowerPoint, Octave, LINUX.  
@@ -36,8 +36,7 @@ German (Intermediate)
 •	Worked on machine learning projects: exploratory data analysis, visualization, feature generation, building ML models, validation. Projects included recommender systems, anomaly detection, time series analyses and forecasting, survival analysis, uplift modeling, web scraping, chatbots with text preprocessing.    
 •	Participated in Kaggle competitions.    
 •	Participated in hackathon “The Data-driven Recommendind System for SkillFactory Marketing Department”.     
-•	Performed programming tasks in python.   
-•	Guided students of the data science programs on the online learning platform “SkillFactory”.         
+•	Performed programming tasks in python.        
 
 *May 2019 - July 2020*  
 ##### Postdoctoral Researcher, Department of Chemistry and Biology, University of Bern, Switzerland   
