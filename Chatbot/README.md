@@ -1,6 +1,6 @@
 # Chatbot "Hoarder"
 
-### *Task*: Create a chatbot that recommends products in response to product a request or responds with a "chatter" to any other request.
+### *Task*: Create a chatbot that recommends products in response to a product request or responds with a "chatter" to any other request.
 
 ### Datasets:
 1. [Products](https://github.com/Iryna-Alshakova/Portfolio/blob/main/Chatbot/ProductsDataset.csv)
