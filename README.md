@@ -33,11 +33,12 @@ German (Intermediate)
 ### PROFESSIONAL EXPERIENCE    
 *October 2020 - present*
 ##### Data Scientist (Freelance)    
-•	Worked on machine learning projects: exploratory data analysis, visualization, feature generation, building ML models, validation. Projects included recommender systems, anomaly detection, time series analyses and forecasting, survival analysis, uplift modeling, web scraping, chatbots with text preprocessing.    
-•	Participated in Kaggle competitions.    
-•	Participated in hackathon “The Data-driven Recommendind System for SkillFactory Marketing Department”.     
-•	Performed programming tasks in python.        
-
+•	Work on machine learning projects: exploratory data analysis, data visualization, feature engineering, building and validating machine learning models. Projects include recommender systems, anomaly detection algorithms, time series analyses and forecasting, survival analysis, uplift modeling, web scraping, text preprocessing. Perform programming tasks in python. Participate in the Kaggle competitions.   
+•	Developed a predictive model for the prices of the pre-owned cars including building a web scrapper for the extraction of the real-world data.     
+•	Built a recommender system for a chatbot with a natural language processing algorithm for the customers of a web store that recommends products in response to a product request or simulates a casual conversation for any other request.   
+•	Developed a credit scoring algorithm for predicting the reliability of the bank customers.  
+•	Participated in the hackathon “The Data-driven Recommender System for SkillFactory Marketing Department” (4th result out of 97 participants).  
+   
 *May 2019 - July 2020*  
 ##### Postdoctoral Researcher, Department of Chemistry and Biology, University of Bern, Switzerland   
 •	Designed and synthesized triazolyl ligands for iridium catalysts for direct hydrogenation of aldehydes and ketones and reductive Friedel-Crafts alkylation of aromatic compounds. Studied ligand post-modification of iridium complexes as a tool for tuning their electronic and steric properties.        
