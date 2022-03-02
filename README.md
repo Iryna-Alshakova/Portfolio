@@ -2,21 +2,21 @@
 # Resume
 ## Iryna Alshakova
 
-### EDUCATION   
+### EDUCATION 
+Data Science (in progress)	SkillFactory, online school    
+[Machine Learning](https://github.com/Iryna-Alshakova/Portfolio/blob/main/IBM_Machine_Learning_2FKNFXA8TAVV.pdf) (2021)	IBM on Coursera - Specialization Certificate  
 PhD, Inorganic Chemistry (2019)	Brock University, St. Catharines, Canada  
 MSc, Organic Chemistry (2014)  	Belarusian State University, Minsk, Belarus
-  
-### CERTIFICATES  
-[Machine Learning](https://github.com/Iryna-Alshakova/Portfolio/blob/main/IBM_Machine_Learning_2FKNFXA8TAVV.pdf) (2021)	IBM on Coursera - Specialization Certificate  
-Data Science (in progress)	SkillFactory, online school 
+
 
 ### SKILLS
 
-•	Data Science: supervised ML (linear and logistic regressions, decision trees)  and unsupervised ML (clustering, principal component analysis, anomaly detection).    
-•	Python (NumPy, pandas, scipy, seaborn, matplotlib, sklearn, XGBoost, CatBoost, BeautifulSoup4, TensorFlow, Keras) and SQL (Postgres).
+•	Data analysis: data visualization, exploratory data analysis, data processing, statistics.  
+• Machine learning: linear and logistic regressions, decision trees, ensemble algorithms, support-vector machine, clustering, principal component analysis, anomaly detection, natural language processing.  
+•	Python (NumPy, pandas, scipy, seaborn, matplotlib, sklearn, causalml, LightGBM, XGBoost, CatBoost, BeautifulSoup4, TensorFlow, Keras) and SQL (Postgres).
+•	Other software/tools: docker, Power BI, github, Excel, PowerPoint.   
 
-#### OTHER SKILLS  
-•	IT: Word, Excel, PowerPoint, Octave, LINUX.  
+#### OTHER SKILLS   
 •	Organic and organometallic synthesis: design of experiments, isolation, purification, analysis.  
 •	Air- and moisture-sensitive reactions: Schlenk line technique, glovebox, solvent purification system.   
 •	Transition metal catalysis: catalyst design, optimization of a catalytic reaction conditions, characterization of products, mechanistic and kinetic studies of the developed catalytic processes.   
@@ -24,19 +24,13 @@ Data Science (in progress)	SkillFactory, online school
 •	Chemistry software: ChemInventory, CambridgeSoft, ACD/labs, SciNote, TopSpin, Mnova, EndNote, Olex2 Crystallography Software.  
 •	Other skills: time management, public speaking, mentoring, team-working, self-motivation.   
 
-### LANGUAGES
-Belarusian (Native)	   
-Russian (Native)  
-English (Fluent)	  
-German (Intermediate)
-
 ### PROFESSIONAL EXPERIENCE    
 *October 2020 - present*
 ##### Data Scientist (Freelance)    
 •	Work on machine learning projects: exploratory data analysis, data visualization, feature engineering, building and validating machine learning models. Projects include recommender systems, anomaly detection algorithms, time series analyses and forecasting, survival analysis, uplift modeling, web scraping, text preprocessing. Perform programming tasks in python. Participate in the Kaggle competitions.   
-•	Developed a predictive model for the prices of the pre-owned cars including building a web scrapper for the extraction of the real-world data.     
-•	Built a recommender system for a chatbot with a natural language processing algorithm for the customers of a web store that recommends products in response to a product request or simulates a casual conversation for any other request.   
-•	Developed a credit scoring algorithm for predicting the reliability of the bank customers.  
+•	Developed a [predictive model](https://github.com/Iryna-Alshakova/Portfolio/tree/main/Car%20price%20predictor%20-%20kaggle%20competition) for the prices of the pre-owned cars including building a web scrapper for the extraction of the real-world data.     
+•	Built a [recommender system](https://github.com/Iryna-Alshakova/Portfolio/tree/main/Chatbot) for a chatbot with a natural language processing algorithm for the customers of a web store that recommends products in response to a product request or simulates a casual conversation for any other request.   
+•	Developed a [credit scoring algorithm](https://github.com/Iryna-Alshakova/Portfolio/tree/main/Credit%20Scoring%20-%20kaggle%20competition) for predicting the reliability of the bank customers.  
 •	Participated in the hackathon “The Data-driven Recommender System for SkillFactory Marketing Department” (4th result out of 97 participants).  
    
 *May 2019 - July 2020*  
@@ -90,7 +84,13 @@ An award to an outstanding graduate student in the Chemistry program who has an 
 • Alshakova, I.D., Nikonov, G.I., Transfer hydrogenation with 2-propanol and ethanol catalyzed by ruthenium (II) complexes supported by a pyrazole-phosphine ligand. 49th Inorganic Discussion Weekend 2016, Hamilton, Canada. (Poster)  
 • Alshakova, I.D., Nikonov, G.I., New ruthenium (II) complex with pyrazole-containing ligand and its catalytic activity in transfer hydrogenation. 48th Inorganic Discussion Weekend 2015, Kingston, Canada. (Talk)   
 • Ermolovich, Y.V., Alshakova, I.D., Zhabinskii, V.N., Khripach, V.A., Synthesis and bioactivity of 28-norbrasinolide and its biosynthetic precursors. 22nd Conference on Isoprenoids 2014, Prague, Czech Republic. (Poster)  
-• Alshakova, I. D., Nalivaika, P. A., Yurchenko, R. A., Vinarski, V. A., Method of finding of honey adulteration by means of determination of 5-hydroxymethylfurfural presence. 15th JCF-Frühjahrssymposium 2013, Berlin, Germany (Poster).  
+• Alshakova, I. D., Nalivaika, P. A., Yurchenko, R. A., Vinarski, V. A., Method of finding of honey adulteration by means of determination of 5-hydroxymethylfurfural presence. 15th JCF-Frühjahrssymposium 2013, Berlin, Germany (Poster). 
+
+### LANGUAGES
+Belarusian (Native)	   
+Russian (Native)  
+English (Fluent)	  
+German (Intermediate)   
 
 ### LINKS
 [LinkedIn](https://www.linkedin.com/in/iryna-alshakova/)   
